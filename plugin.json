@@ -8,10 +8,10 @@
         "name": "Say Hentai",
         "author": "MM",
         "path": "https://raw.githubusercontent.com/hoathi1/vbook-extension/master/sayhentai/plugin.zip",
-        "version": 4,
+        "version": 5,
         "source": "https://sayhentai.us",
         "icon": "https://raw.githubusercontent.com/hoathi1/vbook-extension/master/sayhentai/icon.png",
-        "description": "Đọc truyện trên trang Sayhentai.vip",
+        "description": "Đọc truyện trên trang Sayhentai.us",
         "type": "comic",
         "locale": "vi_VN",
         "tag": "nsfw"

@@ -1,16 +1,16 @@
 {
     "metadata": {
-        "author": "Minh",
+        "author": "Nhocconsr",
         "description": "Thích là nhích ^^!"
     },
     "data": [
       {
         "name": "Say Hentai",
         "author": "Nhocconsr",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/sayhentai/plugin.zip",
+        "path": "https://raw.githubusercontent.com/hoathi1/vbook-extension/master/sayhentai/plugin.zip",
         "version": 4,
-        "source": "https://sayhentai.vip",
-        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/sayhentai/icon.png",
+        "source": "https://sayhentai.us",
+        "icon": "https://raw.githubusercontent.com/hoathi1/vbook-extension/master/sayhentai/icon.png",
         "description": "Đọc truyện trên trang Sayhentai.vip",
         "type": "comic",
         "locale": "vi_VN",

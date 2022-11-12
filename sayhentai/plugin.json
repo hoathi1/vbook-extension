@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "Say Hentai",
-    "author": "Nhocconsr",
+    "author": "MM",
     "version": 4,
     "source": "https://sayhentai.us",
     "regexp": "(www.)?sayhentai.us/[^/]+.html$",
